@@ -1,0 +1,158 @@
+{
+  "id": 714846846817083392,
+  "idStr": "714846846817083392",
+  "text": "Confira a programação da trilha #Ruby no #TheDevConf publicada, compartilhe com seus amigos https://t.co/L2PKu17aD6 https://t.co/m7YXUZaSLx",
+  "createdAt": "Mar 29, 2016 1:09:04 PM",
+  "fromUser": "TheDevConf",
+  "profileImageUrl": "http://pbs.twimg.com/profile_images/579985773610532864/cVI4GFs4_normal.png",
+  "toUserId": 0,
+  "inReplyToScreenName": "null",
+  "fromUserId": 309788191,
+  "languageCode": "pt",
+  "source": "\u003ca href\u003d\"http://rdstation.com.br\" rel\u003d\"nofollow\"\u003eRD Station\u003c/a\u003e",
+  "retweetCount": 2,
+  "retweeted": false,
+  "favorited": false,
+  "favoriteCount": 2,
+  "entities": {
+    "urls": [
+      {
+        "display": "bit.ly/22Vqp1B",
+        "expanded": "http://bit.ly/22Vqp1B",
+        "url": "https://t.co/L2PKu17aD6",
+        "indices": [
+          92,
+          115
+        ],
+        "extraData": {}
+      }
+    ],
+    "tags": [
+      {
+        "text": "Ruby",
+        "indices": [
+          32,
+          37
+        ],
+        "extraData": {}
+      },
+      {
+        "text": "TheDevConf",
+        "indices": [
+          41,
+          52
+        ],
+        "extraData": {}
+      }
+    ],
+    "mentions": [],
+    "media": [
+      {
+        "id": 714846846724808704,
+        "mediaHttp": "http://pbs.twimg.com/media/Ceula2_XIAAKzF-.jpg",
+        "mediaHttps": "https://pbs.twimg.com/media/Ceula2_XIAAKzF-.jpg",
+        "url": "https://t.co/m7YXUZaSLx",
+        "display": "pic.twitter.com/m7YXUZaSLx",
+        "expanded": "http://twitter.com/TheDevConf/status/714846846817083392/photo/1",
+        "type": "photo",
+        "indices": [
+          116,
+          139
+        ],
+        "extraData": {
+          "sizes": {
+            "large": {
+              "w": 600,
+              "h": 315,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 315,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 179,
+              "resize": "fit"
+            }
+          },
+          "id_str": "714846846724808704"
+        }
+      }
+    ],
+    "tickerSymbols": [],
+    "extraData": {
+      "symbols": []
+    }
+  },
+  "user": {
+    "id": 309788191,
+    "screenName": "TheDevConf",
+    "name": "TDC2016",
+    "url": "http://t.co/imiE0nxYYU",
+    "profileImageUrl": "http://pbs.twimg.com/profile_images/579985773610532864/cVI4GFs4_normal.png",
+    "description": "",
+    "location": "Brazil",
+    "createdDate": "Jun 2, 2011 2:31:25 PM",
+    "language": "pt",
+    "statusesCount": 6924,
+    "friendsCount": 52,
+    "followersCount": 4488,
+    "favoritesCount": 1276,
+    "listedCount": 171,
+    "following": false,
+    "followRequestSent": false,
+    "isProtected": false,
+    "notificationsEnabled": false,
+    "verified": false,
+    "geoEnabled": false,
+    "contributorsEnabled": false,
+    "translator": false,
+    "timeZone": "Brasilia",
+    "utcOffset": -10800,
+    "sidebarBorderColor": "EAEFF2",
+    "sidebarFillColor": "FFFFFF",
+    "backgroundColor": "FCFCFC",
+    "useBackgroundImage": true,
+    "backgroundImageUrl": "http://pbs.twimg.com/profile_background_images/262934610/fundo.jpg",
+    "backgroundImageTiled": false,
+    "textColor": "333333",
+    "linkColor": "B30000",
+    "showAllInlineMedia": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/309788191/1455129173",
+    "extraData": {
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/262934610/fundo.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/579985773610532864/cVI4GFs4_normal.png",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/imiE0nxYYU",
+              "expanded_url": "http://www.thedevelopersconference.com.br",
+              "display_url": "thedevelopersconference.com.br",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "default_profile_image": false,
+      "id_str": "309788191",
+      "default_profile": false,
+      "is_translation_enabled": false,
+      "has_extended_profile": false
+    }
+  },
+  "extraData": {}
+}
